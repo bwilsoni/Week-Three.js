@@ -1,0 +1,22 @@
+{
+  "name": "week-three",
+  "version": "1.0.0",
+  "description": "This is my first NPM project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwilsoni/Week-Three.js.git"
+  },
+  "author": "Bryan Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwilsoni/Week-Three.js/issues"
+  },
+  "homepage": "https://github.com/bwilsoni/Week-Three.js#readme",
+  "devDependencies": {
+    "gulp-webserver": "^0.9.1"
+  }
+}
