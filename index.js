@@ -13,7 +13,9 @@ var calculator = {
     }
 };
 
-const poop = "67"
+const stuff = "67"
+
+console.log("wow")
 
 
 console.log(calculator.add(40, 100) 
