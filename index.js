@@ -13,6 +13,8 @@ var calculator = {
     }
 };
 
+const poop = "67"
+
 
 console.log(calculator.add(40, 100) 
             + calculator.subtract(46, 227) 
