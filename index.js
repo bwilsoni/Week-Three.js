@@ -23,3 +23,4 @@ console.log(calculator.add(40, 100)
             + calculator.multiply(5, 20) 
             + calculator.divide(90, 9))
 
+console.log("Testing bclean git alias")
