@@ -41,13 +41,16 @@ for (const iterator of stuffArray) {
 }
 console.groupEnd("END");
 
+let ageAction = stuffObject;
 
-// // extra credit below
-// while (condition) {
+while (ageAction.age <= 50) {
+    console.log("Bryan's " + stuffObject.age + " years old!")
+    ageAction.age += 1
+};
 
-// }
 
-// do {
-
-// } while (condition);
+do {
+    console.log("Bryan's " + stuffObject.age + " years old!")
+    ageAction.age -= 1
+} while (ageAction.age >= 28);
 
